@@ -1,4 +1,5 @@
 class Main {
+  
   public static void main(String[] args)
   {
     // Construct 2 objects of your class to test the 2 constructors
